@@ -1,0 +1,10 @@
+2018-04-02 14:01:28,566 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on DESKTOP-N88H2NI with PID 2416 (E:\IDEA\demo3\target\classes started by VM510L in E:\IDEA\demo3)
+2018-04-02 14:01:28,572 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 14:01:28,575 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 14:01:31,247 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.332 seconds (JVM running for 4.745)
+2018-04-02 14:02:55,417 DEBUG (UserController.java:22)- 输入w1,Name=keep
+2018-04-02 14:02:55,418 DEBUG (UserController.java:23)- 输入w2,Name=apple
+2018-04-02 14:04:01,759 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on DESKTOP-N88H2NI with PID 23996 (E:\IDEA\demo3\target\classes started by VM510L in E:\IDEA\demo3)
+2018-04-02 14:04:01,768 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-02 14:04:01,771 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-02 14:04:04,774 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 3.761 seconds (JVM running for 5.804)
